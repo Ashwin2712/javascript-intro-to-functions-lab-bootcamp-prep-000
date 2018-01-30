@@ -25,7 +25,7 @@ function sayHiToGrandma(string){
     return audible
   }
 
-  if (whisper(greet) == greet) {
+  if (whisper(greet) === greet) {
     return inaudible
   }
 
