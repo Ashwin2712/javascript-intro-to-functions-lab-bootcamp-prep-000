@@ -34,5 +34,3 @@ function sayHiToGrandma(string){
   }
 }
 
-sayHiToGrandma(greet)
-sayHiToGrandma(inaudible)
