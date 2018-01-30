@@ -1,8 +1,3 @@
-var greet = "HI GRANDMA"
-var audible = "YES INDEED!"
-var inaudible = "I can\'t hear you!"
-var ditto = "I love you, too."
-
 function shout(string){
   return string.toUpperCase()
 }
