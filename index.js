@@ -19,13 +19,13 @@ function logWhisper(string){
   console.log(string.toLowerCase())
 }
 
-function sayHiToGrandma(greet){
+function sayHiToGrandma(ashwin){
 
-  if (greet.toUpperCase == greet) {
+  if (ashwin.toUpperCase == greet) {
     return audible
   }
 
-  if (greet.toLowerCase == greet) {
+  if (ashwin.toLowerCase == greet) {
     return inaudible
   }
 
