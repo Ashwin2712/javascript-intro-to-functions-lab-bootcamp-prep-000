@@ -19,7 +19,7 @@ function logWhisper(string){
   console.log(string.toLowerCase())
 }
 
-function sayHiToGrandma(string){
+function sayHiToGrandma(greet){
 
   if (greet.toUpperCase == greet) {
     return audible
